@@ -1,0 +1,6 @@
+{
+  "name": "LightBox",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./LightBox.js"
+}

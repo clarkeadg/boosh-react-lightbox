@@ -4,7 +4,7 @@ const LightBoxReducer = require('./Reducers/LightBoxReducer');
 const LightBox        = require('./Components/LightBox/LightBox');
 
 module.exports = {
-  LightBoxActions:    LightBoxActions,
+  LightBoxActions:    LightBoxActions.default,
   LightBoxReducer:    LightBoxReducer.default,
-  LightBox:           LightBox
+  LightBox:           LightBox.default
 }
